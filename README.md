@@ -1,5 +1,5 @@
 # HyperledgerTSLab
-Contains the Chaincode (Go) and client application server (express js)
+Contains the Chaincode (Go) and client application server (express js). It uses the Hyperlegder fabric 2.2
 
 # Content
 * chaincode
