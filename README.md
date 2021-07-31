@@ -6,3 +6,6 @@ Contains the Chaincode (Go) and client application server (express js). It uses 
     - contains the chaincode file vlc.go (Vehicle Life Cycle)
 * client
     - app.js is express server
+
+* postman
+    - acontains the postman workspace to test the server API
